@@ -1,0 +1,10 @@
+# For a quick start check out our HTTP Requests collection (Tools|HTTP Client|Open HTTP Requests Collection).
+#
+# Following HTTP Request Live Templates are available:
+# * 'gtrp' and 'gtr' create a GET request with or without query parameters;
+# * 'ptr' and 'ptrp' create a POST request with a simple or parameter-like body;
+# * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);
+
+GET https://www.liepin.com/zhaopin/?isAnalysis=&dqs=&pubTime=&salary=&subIndustry=&industryType=&compscale=&key=%E5%A4%A7%E6%95%B0%E6%8D%AE&init=-1&searchType=1&headckid=5e0468c64a217de9&compkind=&fromSearchBtn=2&sortFlag=15&degradeFlag=0&jobKind=&industries=&clean_condition=&d_sfrom=search_prime&d_curPage=0&d_pageSize=40&curPage=1
+
+###
